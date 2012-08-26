@@ -1,0 +1,54 @@
+Hi all,
+
+Starting today, http://diybookscanner.eu is offering a complete book scanner kit to EU customers for 899€. Complete means cameras, lighting, electronics and shipping are included.
+
+
+Sincerely,
+
+Mark Van den Borre
+
+P.S. I absolutely want to acknowledge that our kit is 99% based upon the great community work spearheaded by Dan, Rob and so many others here.
+P.P.S. As any good community member, I try to work in the open and make some humble contributions of my own. I am known in the forum as markvdb. Some activities in the weeks since I've actively worked with the latest design:
+* openscad porting work: http://github.com/markvdb/diybookscanner/openscad (in progress, helping hands welcome!)
+* an experiment with aluminium L profiles as brackets for the glass
+* documenting Canon A2200 ptp triggering: http://github.com/markvdb/diybookscanner/misc/settings.md
+
+FAQ
+===
+
+* What does the kit contain?
+ * prepainted grade A baltic birch plywood parts (kit v0.9.20 with electronical triggering, so no mechanical triggering parts!)
+ * 2x 3mm glass plate 280mmx 356mm
+ * all metal parts: bearings, bolts, brackets, nuts, screws, threaded rod and washers (with felt pads)
+ * all parts for electronical triggering:
+  * 2x 14 Mpx Canon PowerShot A2200 camera
+  * 2x 8Gb class 10 SD card with CHDK firmware preconfigured
+  * 2x USB cable
+  * 2x camera AC adapter for continuous operation
+  * embedded computer with basic electronic triggering preconfigured
+  * USB foot switch 
+ * all electrical parts:
+  * 10W LED light
+  * EU power strip
+ * assembly instructions video
+
+Various
+-------
+* What is your relationship to diybookscanner.org?
+We are proud to contribute actively to the diybookscanner.org project in several ways. Some examples:
+* openscad porting work: http://github.com/markvdb/diybookscanner/openscad (in progress, helping hands welcome!)
+* an experiment with aluminium L profiles as brackets for the glass
+* documenting Canon A2200 ptp triggering: http://github.com/markvdb/diybookscanner/misc/settings.md
+
+
+Contact
+=======
+lusis.lv sia
+VAT & Company ID: LVTODOXXXXXXXXXX
+Ciekurkalna 1a linija 84
+Riga
+Latvia
+
+Mark Van den Borre
+mark@lusis.be
++32 486 961726
