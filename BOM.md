@@ -12,7 +12,7 @@
 * 30x M8 washer black
 * 12x screw 16 mm
 * 2x M8 rod 17cm
-* 4x M8 wing nut din 315
+* 4x M8 wing nut
 * 2x bolt UNC 1/4” 25mm
 * 20x bearing 608ZZ 8 x 22 x 7 mm
 * 8x cross dowel
