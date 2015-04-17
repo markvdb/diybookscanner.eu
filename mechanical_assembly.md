@@ -24,3 +24,5 @@ Insert the threaded rods into the base side plate holes. Put the rods through th
 Push two furniture cap nuts into the other base side plate.
 ![furniture cap nuts in base plate two](pictures/furniture_cap_nut_in_base_plate_2.jpg "furniture cap nuts in other base side plate")
 
+Assemble the base by screwing the furniture cap nuts onto the threaded rod.
+![screw base together](pictures/screw_base_together.jpg "screw base together")
