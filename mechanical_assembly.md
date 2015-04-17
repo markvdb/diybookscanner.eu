@@ -61,12 +61,15 @@ You will need:
 
 The process is similar to the assembly of the base frame.
 
-First push two furniture cap nuts into one cradle lifter.
+First push two furniture cap nuts each into both cradle lifters.
 ![furniture cap nuts into cradle lifter](pictures/furniture_cap_nuts_into_cradle_lifter.jpg "furniture cap nuts into cradle lifter")
 
-Now fasten the threaded rods into the furniture cap nuts, but not too tightly yet.
+Now fasten the threaded rods into the furniture cap nuts in one cradle lifter. Do not fasten them too tightly yet.
 ![furniture cap nuts connect cradle rods](pictures/furniture_cap_nuts_connect_cradle_rods.jpg "furniture cap nuts connect cradle rods")
 
 Push the aluminium tubes onto the threaded rods.
 ![push aluminium tubes onto threaded rods](pictures/push_aluminium_tubes_onto_threaded_rods.jpg "push aluminium tubes onto threaded rods")
+
+Now add the second cradle lifter to the assembly. Fasten all four furniture cap bolts to the threaded rods.
+![fasten furniture cap bolts to threaded rods](pictures/fasten_furniture_cap_bolts_to_threaded_rods.jpg "fasten furniture cap bolts to threaded rods")
 
