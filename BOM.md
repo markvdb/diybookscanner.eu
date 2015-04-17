@@ -31,16 +31,16 @@
 * 2x aluminium square tube 30*694mm
 
 ## Tube inserts
-* 4x 25x25 M8 korķi ar vītni
-* 4x CGM 30x30 M8 korķi ar vītni
-* 2x Caurules gala aizbāznis ar M10 vītni
+* 4x 25mm M8
+* 4x 30mm M8
+* 2x M10
 
 ## Light module
 * 2x foamboard trapezoid
 * 2x foamboard 381x406 mm
 * 1x foamboard 101x406 mm with LED lighting preinstalled
 * 2x foamboard 406x153 mm
-* 1x FL LED power supply desktop FL-5A/12V 60W
+* 1x LED power supply
 
 ## Glass
 * 2x tempered glass (50 degree angle, taped with electric tape)
