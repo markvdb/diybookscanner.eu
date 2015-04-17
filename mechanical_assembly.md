@@ -48,4 +48,5 @@ Put together as seen in the pictures below. From outside to inside:
 * washer
 * nut
 
+![base side plate pulley order](pictures/base_side_plate_pulley_order.jpg "base side plate pulley order")
 ![mount pulleys onto base side plates](pictures/mount_pulleys_onto_base_side_plates.jpg "mount pulleys onto base side plates")
