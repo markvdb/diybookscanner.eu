@@ -89,3 +89,18 @@ Move the cradle frame inside the base frame. **Watch the orientation!**
 
 ![cradle inside base frame](pictures/cradle_inside_base_frame.jpg "cradle inside base frame")
 
+### Preparing the cradle lift arms
+You will need:
+* 2x long cradle lift arm
+* 2x short cradle lift arm
+* 16x bearing
+* 8x bolt M8 50mm
+* 8x nut M8
+* 8x washer M8
+* allen key M6
+* wrench M8
+
+Push two bearings each into both sides of all four cradle lift arms, for sixteen bearings in total. Use an M8 bolt and nut as pictured. Obviously, you will have to remove the nut afterwards.
+
+![lift arm bearings](pictures/lift_arm_bearings.jpg "lift arm bearings")
+
