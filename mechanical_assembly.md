@@ -84,4 +84,8 @@ Screw one bolt halfway through each side plate. Keep the bolt head on the outsid
 ![base bungee bolt](pictures/base_bungee_bolts_1.jpg "base bungee bolt")
 ![base bungee bolt](pictures/base_bungee_bolts_2.jpg "base bungee bolt")
 
+### Cradle frame in base frame
+Move the cradle frame inside the base frame. **Watch the orientation!**
+
+![cradle inside base frame](pictures/cradle_inside_base_frame.jpg "cradle inside base frame")
 
