@@ -48,7 +48,7 @@
 * 2x felt strip black 200mm
 * 4x black elastic cord 45cm
 
-## Electronics (standalone kit only)
+## Electronics (standalone and deluxe kit only)
 * 2x Canon camera (one labeled “odd” and one labeled “even”)
 * 2x A-brand SD card (CHDK firmware preconfigured)
 * 2x mini USB cable

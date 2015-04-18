@@ -58,6 +58,7 @@ You will need:
 * 4x furniture cap nut M6
 * 2x cradle lifter
 * 2x threaded rod M6 740mm
+* allen key M6
 
 The process is similar to the assembly of the base frame.
 
@@ -72,4 +73,15 @@ Push the aluminium tubes onto the threaded rods.
 
 Now add the second cradle lifter to the assembly. Fasten all four furniture cap bolts to the threaded rods.
 ![fasten furniture cap bolts to threaded rods](pictures/fasten_furniture_cap_bolts_to_threaded_rods.jpg "fasten furniture cap bolts to threaded rods")
+
+### Base pulley bolts
+You will need:
+* 2x bolt M8 50mm
+* 2x nut M8
+* allen key M6
+
+Screw one bolt halfway through each side plate. Keep the bolt head on the outside of the frame. Screw a nut onto the bolt at the inside of the frame.
+![base bungee bolt](pictures/base_bungee_bolts_1.jpg "base bungee bolt")
+![base bungee bolt](pictures/base_bungee_bolts_2.jpg "base bungee bolt")
+
 
