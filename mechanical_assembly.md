@@ -1,3 +1,4 @@
+## Aseembling the base
 ### Preparing the aluminium tubes
 You will need:
 * 2x aluminium square tube 30x694mm
@@ -141,4 +142,19 @@ Mount the hand grip tube between the lift arms. Push the threaded rod through th
 
 On both sides of the threaded rod, first push on a washer, then screw on two nuts. Leave some space between the nuts. This is where we will attach the bungee cords later.
 ![hand grip tube nuts](pictures/hand_grip_tube_nuts.jpg "hand grip tube nuts")
+
+## Assembling the middle
+### Front and back plate meet camera braces
+You will need:
+* front plate
+* back plate
+* 2x camera brace
+* rubber hammer
+
+Assemble the front and back plate and the camera braces as pictured. This might require some force from the rubber hammer. Don't worry about damaging the wood. This is super strong birch plywood!
+![assemble front, back and camera braces 1](pictures/front_back_camera_braces_1.jpg) "assemble front, back and camera braces 1"
+![assemble front, back and camera braces 2](pictures/front_back_camera_braces_2.jpg) "assemble front, back and camera braces 2"
+
+The end result should look like this.
+![assemble front, back and camera braces 3](pictures/front_back_camera_braces_3.jpg) "assemble front, back and camera braces 3"
 
