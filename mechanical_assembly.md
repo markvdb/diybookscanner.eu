@@ -1,3 +1,5 @@
+(See also: BOM and tools) 
+
 ## Assembling the base
 ### Preparing the aluminium tubes
 You will need:
