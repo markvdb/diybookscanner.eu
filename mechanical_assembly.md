@@ -184,19 +184,32 @@ Put the two glass plates onto a flat surface. They should meet with the angled c
 Tape the two glass plates together with bits of electric tape. Six or seven should do.
 ![glass plates taped together](pictures/glass_plates_taped_together.jpg "glass plates taped together")
 
-## Installing the glass plates
+### Installing the glass plates
 You will need:
 * prepared glass plates
-* assembled glass module
+* assembled optics module
 * 2x aluminium L profile 600mm
 * 12x short wood screw
 * electric drill or screwdriver
 * drill bit wood 3mm
 
-Lay the glass on the glass module as shown **with the angle cut pointing down**. Gently fold both aluminum profiles around the corners where glass and front/back plate meet.
-![glass plates and aluminium profiles on glass module](pictures/glass_plates_and_aluminium_profiles_on_glass_module.jpg "glass plates and aluminium profiles on glass module")
+Lay the glass on the optics module as shown **with the angle cut pointing down**. Gently fold both aluminum profiles around the corners where glass and front/back plate meet.
+![glass plates and aluminium profiles on optics module](pictures/glass_plates_and_aluminium_profiles_on_glass_module.jpg "glass plates and aluminium profiles on optics module")
 
 Using a 3mm wood drill bit, and with the holes in the aluminium profiles as a guid, predrill twelve holes for the wood screws in the front/back plate.
 
 Now we are ready to fix the glass plates to the glass module. Screw twelve screws into the predrilled holes. **Do not screw them in too tight yet!**
-![screw aluminium profiles onto glass module](pictures/screw_aluminium_profiles_onto_glass_module.jpg "screw aluminium profiles onto glass module")
+![screw aluminium profiles onto optics module](pictures/screw_aluminium_profiles_onto_glass_module.jpg "screw aluminium profiles onto optics module")
+
+## Mounting the glass module onto the base module
+You will need:
+* assembled optics module
+* assembled base module
+* 4x cross dowel
+* 4x furniture bolt M6
+
+Install the optics module on top of the base module.
+![install optics module onto base module](pictures/install_optics_module_onto_base_module.jpg "install optics module onto base module")
+
+Fasten both modules to eachother with four cross dowels and furniture bolts.
+![fasten optics to base with cross dowels](pictures/fasten_optics_to_base_with_cross_dowels.jpg "fasten optics to base with cross dowels")
