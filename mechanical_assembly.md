@@ -116,3 +116,16 @@ Put a washer on every lift arm bolt.
 
 Bolt the lift arms to cradle lifters and side plates. Screw an M8 nut onto every lift arm bolt.
 ![mount cradle lift arms](pictures/mount_cradle_lift_arms.jpg "mount cradle lift arms")
+
+### Preparing the hand grip tube
+You will need:
+* aluminium round tube
+* round tube inserts
+* threaded rod 830mm
+* rubber hammer
+
+Bang the round tube inserts into both sides of the aluminium round tube.
+![bang inserts into round tube](pictures/bang_inserts_into_round_tube.jpg "bang inserts into round tube")
+
+Push the threaded rod through the tube with the ends out on both sides.
+![push threaded rod through round tube](pictures/push_threaded_rod_through_round_tube.jpg "push threaded rod through round tube")
