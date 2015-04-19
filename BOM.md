@@ -47,6 +47,7 @@
 ## Various
 * 2x felt strip black 200mm
 * 4x black elastic cord 45cm
+* (electric tape)
 
 ## Electronics (standalone and deluxe kit only)
 * 2x Canon camera (one labeled “odd” and one labeled “even”)
