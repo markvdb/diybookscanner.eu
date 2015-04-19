@@ -221,3 +221,15 @@ Remove unnecessary electric tape. Use a cutter knife to remove the unnecessary b
 ![remove unnecessary electric tape 1](pictures/remove_unnecessary_electric_tape1.jpg "remove unnecessary electric tape 1")
 ![remove unnecessary electric tape 2](pictures/remove_unnecessary_electric_tape2.jpg "remove unnecessary electric tape 2")
 ![remove unnecessary electric tape 3](pictures/remove_unnecessary_electric_tape3.jpg "remove unnecessary electric tape 3")
+
+## Cradle
+### Prepare the cradle wheels
+You will need:
+* 4x bolt black M8 50mm
+* 4x washer M10
+* 8x washer M8
+* 4x bearing
+
+Put 4 sets together as pictured.
+![prepare cradle wheels](pictures/prepare_cradle_wheels.jpg "prepare cradle wheels")
+
