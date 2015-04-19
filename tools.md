@@ -1,6 +1,8 @@
 Tools you will need to assemble the diybookscanner:
 * rubber hammer
 * 2x M6 allen key
-* 1x M8 wrench
-* 1x flat head screwdriver
-* 1x philips screwdriver
+* M8 wrench
+* flat head screwdriver
+* philips screwdriver
+* electric drill or screwdriver
+* 3mm wood drill bit
