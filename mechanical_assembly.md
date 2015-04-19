@@ -129,3 +129,16 @@ Bang the round tube inserts into both sides of the aluminium round tube.
 
 Push the threaded rod through the tube with the ends out on both sides.
 ![push threaded rod through round tube](pictures/push_threaded_rod_through_round_tube.jpg "push threaded rod through round tube")
+
+### Mounting the hand grip tube
+You will need
+* assembled hand grip tube
+* 2x washer M8
+* 4x nut M8
+
+Mount the hand grip tube between the lift arms. Push the threaded rod through the mount holes in both lift arms.
+![mount hand grip tube between lift arms](pictures/mount_hand_grip_tube_between_lift_arms.jpg "mount hand grip tube between lift arms")
+
+On both sides of the threaded rod, first push on a washer, then screw on two nuts. Leave some space between the nuts. This is where we will attach the bungee cords later.
+![hand grip tube nuts](pictures/hand_grip_tube_nuts.jpg "hand grip tube nuts")
+
