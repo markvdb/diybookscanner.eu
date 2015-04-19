@@ -169,7 +169,17 @@ You will need:
 
 ![furniture bolt and cross dowel](pictures/furniture_bolt_and_cross_dowel.jpg "furniture bolt and cross dowel")
 
-**The flat head screw side facing outwards**, insert the cross dowels into the holes in the camera braces. Push the furniture bolts through the front and back slot plates. Screw them into the cross dowels.
+**The flat head screw side facing outwards**, insert the cross dowels into the holes in the camera braces. Push the furniture bolts through the front and back slot plates. Adjust the cross dowel angle alignment to the the furniture bolt with a flat head screwdriver. Screw the furniture bolts into the cross dowels.
 
 ![screw furniture bolt into cross dowel](pictures/screw_furniture_bolt_into_cross_dowel.jpg "screw furniture bolt into cross dowel")
 
+### Preparing the glass plates
+You will need:
+* 2x glass plate
+* electric tape
+
+Put the two glass plates onto a flat surface. They should meet with the angled cut facing down.
+![glass together angled cut facing down](pictures/glass_together_angled_cut_facing_down.jpg "glass together angled cut facing down")
+
+Tape the two glass plates together with bits of electric tape. Six or seven should do.
+![glass plates taped together](pictures/glass_plates_taped_together.jpg "glass plates taped together")
