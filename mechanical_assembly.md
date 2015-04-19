@@ -143,7 +143,7 @@ Mount the hand grip tube between the lift arms. Push the threaded rod through th
 On both sides of the threaded rod, first push on a washer, then screw on two nuts. Leave some space between the nuts. This is where we will attach the bungee cords later.
 ![hand grip tube nuts](pictures/hand_grip_tube_nuts.jpg "hand grip tube nuts")
 
-## Assembling the middle
+## Assembling the glass module
 ### Front and back plate meet camera braces
 You will need:
 * front plate
@@ -155,6 +155,21 @@ Assemble the front and back plate and the camera braces as pictured. This might 
 ![assemble front, back and camera braces 1](pictures/front_back_camera_braces_1.jpg "assemble front, back and camera braces 1")
 ![assemble front, back and camera braces 2](pictures/front_back_camera_braces_2.jpg "assemble front, back and camera braces 2")
 
-The end result should look like this.
+The result should look like this.
 ![assemble front, back and camera braces 3](pictures/front_back_camera_braces_3.jpg "assemble front, back and camera braces 3")
+
+### Screw front and back plate and camera braces together
+You will need:
+* assembled glass module
+* 4x cross dowel
+* 4x furniture bolt
+* allen key M6
+* flat head screwdriver
+* allen wrench M6
+
+![furniture bolt and cross dowel](pictures/furniture_bolt_and_cross_dowel.jpg "furniture bolt and cross dowel")
+
+**The flat head screw side facing outwards**, insert the cross dowels into the holes in the camera braces. Push the furniture bolts through the front and back slot plates. Screw them into the cross dowels.
+
+![screw furniture bolt into cross dowel](pictures/screw_furniture_bolt_into_cross_dowel.jpg "screw furniture bolt into cross dowel")
 
