@@ -10,7 +10,6 @@
 * 16x M8 nut black
 * 30x M8 washer black
 * 12x screw 16 mm
-* 2x M8 rod 17cm
 * 4x M8 wing nut
 * 2x bolt UNC 1/4” 25mm
 * 20x bearing 608ZZ 8 x 22 x 7 mm
@@ -19,6 +18,7 @@
 * 2x threaded rod M6x740mm
 * 2x threaded rod M6x730mm
 * 1x threaded rod M8 830mm
+* 2x threaded rod M8 170mm
 * 4x big washer
 * 8x furniture cap nut M6
 

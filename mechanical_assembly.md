@@ -233,3 +233,90 @@ You will need:
 Put 4 sets together as pictured.
 ![prepare cradle wheels](pictures/prepare_cradle_wheels.jpg "prepare cradle wheels")
 
+### Assemble the cradle base
+You will need:
+* 4x cradle wheel from previous step
+* cradle base
+* rubber hammer
+
+Push the prepared cradle wheel bolts into the cradle base holes. Use a rubber hammer if needed.
+![assemble cradle base](pictures/assemble_cradle_base.jpg "assemble cradle base")
+
+### Assemble the cradle leaves
+You will need:
+* 2x cradle leave
+* 4x cradle leave triangles
+* rubber hammer
+
+Hammer the cradle leave triangles into the underside of the cradle leaves. **Have the thin sides of the cradle leave triangles facing eachother!**
+![assemble cradle leaves](pictures/assemble_cradle_leaves.jpg "assemble cradle leaves")
+
+
+### Mount the assembled cradle leaves onto the cradle base
+![assemble cradle](pictures/assemble_cradle.jpg "assemble cradle")
+
+### Fix cradle leaves onto base
+You will need:
+* 2x threaded rod M8 170mm
+* 4x wing nut M8
+* cradle
+
+Fix the cradle leaves to the base with the threaded rods and the wing nuts.
+![fix cradle leaves onto base](pictures/fix_cradle_leaves_onto_base_1.jpg "fix cradle leaves onto base")
+![fix cradle leaves onto base](pictures/fix_cradle_leaves_onto_base_2.jpg "fix cradle leaves onto base")
+
+### Put cradle onto cradle runners
+![put cradle onto cradle runners](pictures/put_cradle_onto_cradle_runners.jpg "put cradle onto cradle runners")
+
+### Hook up the bungee cords
+![hook up bungee cords](pictures/hook_up_bungee_cords_1.jpg "hook up bungee cords")
+![hook up bungee cords](pictures/hook_up_bungee_cords_2.jpg "hook up bungee cords")
+
+## Light module
+### Assemble light module
+You will need:
+* all black foam board
+* hot glue, superglue or 2 component epoxy
+* 2x aluminium profile 914mm
+
+Fold the aluminium profiles around the foam board trapezoids as pictured.
+![fold aluminium profiles around trapezoids](pictures/fold_aluminium_profiles_around_trapezoids.jpg "fold aluminium profiles around trapezoids")
+
+Glue the aluminium to the foam board. Glue the top part first, then the sides. Let the LED lighting DC cable escape from the edge of the light module board.
+![glue_aluminium_to_foam_board](pictures/glue_aluminium_to_foam_board_1.jpg "glue aluminium to foam board")
+![glue_aluminium_to_foam_board](pictures/glue_aluminium_to_foam_board_2.jpg "glue aluminium to foam board")
+![glue_aluminium_to_foam_board](pictures/glue_aluminium_to_foam_board_3.jpg "glue aluminium to foam board")
+![glue_aluminium_to_foam_board](pictures/glue_aluminium_to_foam_board_4.jpg "glue aluminium to foam board")
+
+### Mount light module to optics module
+Put the light module on top of the optics module.
+![put light module on optics module](pictures/put_light_module_on_optics_module.jpg "put light module on optics module")
+
+Reduce glare with two pieces of foamboard on top of the optics module.
+![reduce glare with foam board](pictures/reduce_glare_with_foam_board.jpg "reduce glare with foam board")
+
+Connect the LED module to the DC power supply.
+
+## Mount cameras and electronics
+### Mount cameras
+You will need:
+* cameras
+* camera power supplies
+* 4x washer M8
+* 2x bolt UNC
+* (optional) zip ties
+![mount cameras](pictures/mount_cameras.jpg "mount cameras")
+
+### Connect electronics
+You will need:
+* 1x raspberry pi (model b+ or 2)
+* 1x micro usb cable
+* 2x mini usb cable long black
+* 1x usb hub powered 2A
+* 1x usb foot pedal
+
+* Connect the usb hub to the mains power.
+* Connect the micro usb cable to the usb hub and the raspberry pi.
+* Connect the usb hub to the raspberry pi using the usb cable that comes with it.
+* Connect the cameras to the usb hub using the mini usb cables.
+* Connect the foot pedal directly to the raspberry pi.
