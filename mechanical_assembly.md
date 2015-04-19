@@ -1,4 +1,4 @@
-## Aseembling the base
+## Assembling the base
 ### Preparing the aluminium tubes
 You will need:
 * 2x aluminium square tube 30x694mm
@@ -213,3 +213,11 @@ Install the optics module on top of the base module.
 
 Fasten both modules to eachother with four cross dowels and furniture bolts.
 ![fasten optics to base with cross dowels](pictures/fasten_optics_to_base_with_cross_dowels.jpg "fasten optics to base with cross dowels")
+
+Tighten the wood screws.
+![tighten the wood screws](pictures/tighten_glass_screws.jpg "tighten wood screws")
+
+Remove unnecessary electric tape. Use a cutter knife to remove the unnecessary bits around the edges.
+![remove unnecessary electric tape 1](pictures/remove_unnecessary_electric_tape1.jpg "remove unnecessary electric tape 1")
+![remove unnecessary electric tape 2](pictures/remove_unnecessary_electric_tape2.jpg "remove unnecessary electric tape 2")
+![remove unnecessary electric tape 3](pictures/remove_unnecessary_electric_tape3.jpg "remove unnecessary electric tape 3")
