@@ -152,9 +152,9 @@ You will need:
 * rubber hammer
 
 Assemble the front and back plate and the camera braces as pictured. This might require some force from the rubber hammer. Don't worry about damaging the wood. This is super strong birch plywood!
-![assemble front, back and camera braces 1](pictures/front_back_camera_braces_1.jpg) "assemble front, back and camera braces 1"
-![assemble front, back and camera braces 2](pictures/front_back_camera_braces_2.jpg) "assemble front, back and camera braces 2"
+![assemble front, back and camera braces 1](pictures/front_back_camera_braces_1.jpg "assemble front, back and camera braces 1")
+![assemble front, back and camera braces 2](pictures/front_back_camera_braces_2.jpg "assemble front, back and camera braces 2")
 
 The end result should look like this.
-![assemble front, back and camera braces 3](pictures/front_back_camera_braces_3.jpg) "assemble front, back and camera braces 3"
+![assemble front, back and camera braces 3](pictures/front_back_camera_braces_3.jpg "assemble front, back and camera braces 3")
 
