@@ -282,7 +282,7 @@ You will need:
 Fold the aluminium profiles around the foam board trapezoids as pictured.
 ![fold aluminium profiles around trapezoids](pictures/fold_aluminium_profiles_around_trapezoids.jpg "fold aluminium profiles around trapezoids")
 
-Glue the aluminium to the foam board. Glue the top part first, then the sides. Let the LED lighting DC cable escape from the edge of the light module board.
+Glue the aluminium to the foam board. Glue the top part first, then the sides. Let the LED lighting DC cable escape from the edge of the light module board. (Note that the imperfect cuts in this prototype have been improved. Foam board is now laser cut.)
 ![glue_aluminium_to_foam_board](pictures/glue_aluminium_to_foam_board_1.jpg "glue aluminium to foam board")
 ![glue_aluminium_to_foam_board](pictures/glue_aluminium_to_foam_board_2.jpg "glue aluminium to foam board")
 ![glue_aluminium_to_foam_board](pictures/glue_aluminium_to_foam_board_3.jpg "glue aluminium to foam board")
