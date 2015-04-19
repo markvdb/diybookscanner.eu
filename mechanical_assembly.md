@@ -95,12 +95,24 @@ You will need:
 * 2x short cradle lift arm
 * 16x bearing
 * 8x bolt M8 50mm
-* 8x nut M8
-* 8x washer M8
+* 1x nut M8
 * allen key M6
 * wrench M8
 
-Push two bearings each into both sides of all four cradle lift arms, for sixteen bearings in total. Use an M8 bolt and nut as pictured. Obviously, you will have to remove the nut afterwards.
+Push two bearings each into both sides of all four cradle lift arms, for sixteen bearings in total. Use an M8 bolt and nut as pictured. Afterwards, unscrew the nut. Leave the eight bolts inserted.
 
 ![lift arm bearings](pictures/lift_arm_bearings.jpg "lift arm bearings")
 
+### Mount the cradle lift arms
+You will need:
+* assembled cradle lift arms
+* 8x washer M8
+* 8x nut M8
+* allen key M6
+* wrench M8
+
+Put a washer on every lift arm bolt.
+![lift arm bolt washer](pictures/lift_arm_bolt_washer.jpg "lift arm bolt washer")
+
+Bolt the lift arms to cradle lifters and side plates. Screw an M8 nut onto every lift arm bolt.
+![mount cradle lift arms](pictures/mount_cradle_lift_arms.jpg "mount cradle lift arms")
