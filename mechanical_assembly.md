@@ -15,7 +15,7 @@ Separate the 30mm tubes and inserts from the 25mm tubes and inserts. Bang the tu
 ### Assembling the base side plates
 You will need:
 * 2x base side plate
-* 2x threaded rod M6 730mm (10mm shorter than the other set of two rods!)
+* 2x threaded rod M6 740mm (10mm longer than the other set of two rods!)
 * 4x furniture cap nut M6
 * assembled 30x30mm aluminium tubes (see previous step)
 * 2x allen key M6
@@ -60,7 +60,7 @@ You will need:
 * 4x tube insert 25mm M8
 * 4x furniture cap nut M6
 * 2x cradle lifter
-* 2x threaded rod M6 740mm
+* 2x threaded rod M6 730mm
 * allen key M6
 
 The process is similar to the assembly of the base frame.
