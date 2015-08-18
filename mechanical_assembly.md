@@ -9,16 +9,15 @@ You will need:
 * 4x metal tube inserts 25x8x1.2mm  
 * rubber hammer
 
-Separate the 30mm tubes and inserts from the 25mm tubes and inserts. Bang the tube inserts into both sides of both aluminium tubes using the rubber hammer. This requires some force.
+Separate the 30mm tubes and inserts from the 25mm tubes and inserts. Bang the tube inserts into both sides of both aluminium tubes using the rubber hammer. This requires some force. 
 ![banging inserts into tubes](pictures/banging_inserts_into_tubes.jpg "Bang inserts into tubes")
 
 ### Assembling the base side plates
 You will need:
 * 2x base side plate
-* 2x threaded rod M6 740mm (10mm longer than the other set of two rods!)
-* 4x furniture cap nut M6
+* 4x M8x50 bolts
 * assembled 30x30mm aluminium tubes (see previous step)
-* 2x allen key M6
+* 1x allen key M5
 
 Screw a furniture cap nut onto one side of both theaded rods.
 ![banging inserts into tubes](pictures/cap_nut_on_threaded_rod.jpg "Screw cap nut onto threaded rods")
