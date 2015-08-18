@@ -3,10 +3,10 @@
 ## Assembling the base
 ### Preparing the aluminium tubes
 You will need:
-* 2x aluminium square tube 30x694mm
-* 4x tube insert 30x30mm M8 
-* 2x aluminium square tube 25x696mm
-* 4x tube insert 25x25mm M8 
+* 2x aluminium square tube 30x710mm
+* 4x metal tube inserts 32x8x1.2mm  
+* 2x aluminium square tube 25x710mm
+* 4x metal tube inserts 25x8x1.2mm  
 * rubber hammer
 
 Separate the 30mm tubes and inserts from the 25mm tubes and inserts. Bang the tube inserts into both sides of both aluminium tubes using the rubber hammer. This requires some force.
