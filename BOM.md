@@ -35,11 +35,13 @@
 * 2x M10
 
 ## Light module
-* 2x foamboard trapezoid
-* 2x foamboard 381x406 mm
-* 1x foamboard 101x406 mm with LED lighting preinstalled
-* 2x foamboard 406x153 mm
-* 1x LED power supply
+* ![light module parts 1](pictures/light_module_parts1.png "light module foamboard parts 1")
+* ![light module parts 2](pictures/light_module_parts2.png "light module foamboard parts 2")
+* matte black photographers foamboard parts
+* 2x LED light SORAA SM16-07-10D-930-03-S3
+* 2x MR16 light fixture
+* 4x light diffuser lenticular sheet
+* 1x 12V LED power supply 
 
 ## Glass
 * 2x tempered glass (50 degree angle, taped with electric tape)
