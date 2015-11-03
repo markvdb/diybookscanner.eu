@@ -39,9 +39,10 @@
 * ![light module parts 2](pictures/light_module_parts2.png "light module foamboard parts 2")
 * matte black photographers foamboard parts
 * 2x LED light SORAA SM16-07-10D-930-03-S3
-* 2x MR16 light fixture
+* 2x MR16 lamp socket
 * 4x light diffuser lenticular sheet
-* 1x 12V LED power supply 
+* 1x 12V LED power supply
+* 1x barrel connector 5.5/2.1male with screw terminals 
 
 ## Glass
 * 2x tempered glass (50 degree angle, taped with electric tape)
