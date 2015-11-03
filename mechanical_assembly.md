@@ -19,35 +19,23 @@ You will need:
 * assembled 30x30mm aluminium tubes (see previous step)
 * 1x allen key M5
 
-Screw a furniture cap nut onto one side of both theaded rods.
-![banging inserts into tubes](pictures/cap_nut_on_threaded_rod.jpg "Screw cap nut onto threaded rods")
-
-Insert the threaded rods into the base side plate holes. Put the rods through the aluminium tubes.
-![rods through base side plate](pictures/rods_through_base_plate.jpg "Screw cap nut onto threaded rods")
-
-Push two furniture cap nuts into the other base side plate.
-![furniture cap nuts in base plate two](pictures/furniture_cap_nut_in_base_plate_2.jpg "furniture cap nuts in other base side plate")
-
-Assemble the base by screwing the furniture cap nuts onto the threaded rod.
+Assemble the base by screwing the furniture cap nuts onto the threaded rod. (Sorry about the bad picture from a test build.)
 ![screw base together](pictures/screw_base_together.jpg "screw base together")
 
 ### Mounting the pulleys onto the base side plates
 You will need:
-* 2x bolt M8 70mm
-* 6x washer M8
-* 4x wooden pulley
+* 2x bolt M8 50mm
+* 4x plastic pulley
 * 2x nut M8
-* allen key M6
-* wrench M8
+* allen key M5
 
 Put together as seen in the pictures below. From outside to inside:
 * bolt head
-* wooden pulley
-* washer
+* plastic pulley
+* nut
 * base side plate
-* washer
-* wooden pulley
-* washer
+* nut
+* plastic pulley
 * nut
 
 ![base side plate pulley order](pictures/base_side_plate_pulley_order.jpg "base side plate pulley order")
