@@ -64,7 +64,7 @@
 * 1x micro USB cable
 * 2x camera AC adapter
 * 1x USB foot pedal
-* 1x 7 port USB hub (powered)
+* 1x 7 port powered USB hub
 * 1x Raspberry pi 2 model B
 * 1x Raspberry pi 2 model B case
 * 1x high speed micro SD card (preconfigured for spreads)
