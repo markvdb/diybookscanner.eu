@@ -19,15 +19,6 @@ You will need:
 * assembled 30x30mm aluminium tubes (see previous step)
 * 1x allen key M5
 
-Screw a furniture cap nut onto one side of both theaded rods.
-![banging inserts into tubes](pictures/cap_nut_on_threaded_rod.jpg "Screw cap nut onto threaded rods")
-
-Insert the threaded rods into the base side plate holes. Put the rods through the aluminium tubes.
-![rods through base side plate](pictures/rods_through_base_plate.jpg "Screw cap nut onto threaded rods")
-
-Push two furniture cap nuts into the other base side plate.
-![furniture cap nuts in base plate two](pictures/furniture_cap_nut_in_base_plate_2.jpg "furniture cap nuts in other base side plate")
-
 Assemble the base by screwing the furniture cap nuts onto the threaded rod.
 ![screw base together](pictures/screw_base_together.jpg "screw base together")
 
