@@ -12,7 +12,8 @@
 * 12x screw 16 mm
 * 4x M8 wing nut
 * 2x bolt UNC 1/4” 25mm
-* 20x bearing 608ZZ 8 x 22 x 7 mm
+* 16x bearing 608ZZ 8 x 22 x 7 mm
+* 4x bearing F608ZZ 8 x 22 x 7 mm
 * 8x cross dowel
 * 8x furniture screw M6x50
 * 2x threaded rod M6x740mm
