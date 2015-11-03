@@ -19,7 +19,7 @@ You will need:
 * assembled 30x30mm aluminium tubes (see previous step)
 * 1x allen key M5
 
-Assemble the base by screwing the furniture cap nuts onto the threaded rod.
+Assemble the base by screwing the furniture cap nuts onto the threaded rod. (Sorry about the bad picture from a test build.)
 ![screw base together](pictures/screw_base_together.jpg "screw base together")
 
 ### Mounting the pulleys onto the base side plates
