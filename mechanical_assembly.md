@@ -43,17 +43,18 @@ Put together as seen in the pictures below. From outside to inside:
 
 ### Assembling the cradle frame
 You will need:
-* 2x aluminium square tube 25x696mm
-* 4x tube insert 25mm M8
-* 4x furniture cap nut M6
+* 2x aluminium square tube 25x25x2mm 711mm
+* 4x metal tube insert 25mm M8
+* 4x bolt M8x50mm
 * 2x cradle lifter
-* 2x threaded rod M6 730mm
-* allen key M6
+* allen key M5
 
 The process is similar to the assembly of the base frame.
 
-First push two furniture cap nuts each into both cradle lifters.
-![furniture cap nuts into cradle lifter](pictures/furniture_cap_nuts_into_cradle_lifter.jpg "furniture cap nuts into cradle lifter")
+First bang the metal tube inserts into the aluminium tubes, like you did with the base frame. Hint: it may help to do this upside down, as pictured.
+![bang metal tube inserts into cradle frame tube](pictures/bang_metal_tube_inserts_into_cradle_frame_tube_1.jpg "bang metal tube inserts into cradle frame tube")
+
+![bang metal tube inserts into cradle frame tube](pictures/bang_metal_tube_inserts_into_cradle_frame_tube_2.jpg "bang metal tube inserts into cradle frame tube")
 
 Now fasten the threaded rods into the furniture cap nuts in one cradle lifter. Do not fasten them too tightly yet.
 ![furniture cap nuts connect cradle rods](pictures/furniture_cap_nuts_connect_cradle_rods.jpg "furniture cap nuts connect cradle rods")
