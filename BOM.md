@@ -20,7 +20,6 @@
 * 2x threaded rod M6x730mm
 * 1x threaded rod M8 830mm
 * 2x threaded rod M8 170mm
-* 4x big washer
 * 8x furniture cap nut M6
 
 ## Aluminium
