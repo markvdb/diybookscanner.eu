@@ -2,7 +2,7 @@
 
 ## Wooden parts
 ![archivist wooden parts named](pictures/archivist_wooden_parts.png "archivist wooden parts")
-* 4x black wooden pulley
+* 4x black plastic pulley
 
 ## Metal parts
 * 10x bolt M8 black 50 mm, button head
