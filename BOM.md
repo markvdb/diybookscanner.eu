@@ -5,7 +5,9 @@
 * 4x black plastic pulley
 
 ## Metal parts
-* 10x bolt M8 black 50 mm, button head
+* 25x bolt M8 black 50 mm iso 7380
+* 2x bolt M8 black 30 mm iso 7380
+* 2x bolt M8 black 40 mm iso 7380
 * 2x bolt M8 black 70 mm, button head
 * 16x M8 nut black
 * 30x M8 washer black
