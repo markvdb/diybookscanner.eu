@@ -5,53 +5,56 @@
 * 4x black plastic pulley
 
 ## Metal parts
-* 25x bolt M8 black 50 mm iso 7380
-* 2x bolt M8 black 30 mm iso 7380
-* 2x bolt M8 black 40 mm iso 7380
-* 2x bolt M8 black 70 mm, button head
-* 16x M8 nut black
-* 30x M8 washer black
-* 12x screw 16 mm
-* 4x M8 wing nut
-* 2x bolt UNC 1/4” 25mm
+* 25x M8x50 bolt black iso 7380
+* 2x M8x30 bolt black iso 7380
+* 2x M8x40 bolt black iso 7380
+* 17x M8 nut black din 934
+* 21x M8 washer black
+* 12x wood screw 16 mm (for alminium bracket)
+* 4x M6 wing nut din 315
+* 2x UNC 1/4”x25mm bolt
 * 16x bearing 608ZZ 8 x 22 x 7 mm
 * 4x bearing F608ZZ 8 x 22 x 7 mm
-* 8x cross dowel
-* 8x furniture screw M6x50
-* 2x threaded rod M6x740mm
-* 2x threaded rod M6x730mm
-* 1x threaded rod M8 830mm
-* 2x threaded rod M8 170mm
-* 8x furniture cap nut M6
+* 8x M6x10x13 cross dowel 
+* 8x M6x50 furniture screw 
+* 2x M6x170mm threaded rod 
+* 8x M6 furniture cap nut 
+* 2x M5x40 eye bolt 
+* 2x M5 cap nut din 1587
+* 4x M5 washer 
+* 2x M5 nut
+* 2x M5x15 bolt din 7985
+* 6x M3x18 bolt black din 7984
+* 6x M3 washer black
+* 6x M3 nut black
 
 ## Aluminium
-* 2x aluminium profile 914mm 
-* 2x aluminium profile 600mm 
-* 1x aluminium round tube 734mm
-* 2x aluminium square tube 25*696mm
-* 2x aluminium square tube 30*694mm
+* 2x 15x20x2mm aluminium profile 600mm
+* 1x 38x2mm aluminium round tube 748mm
+* 2x 25x25x2mm aluminium square tube 711mm
+* 2x 30x30x2mm aluminium square tube 711mm
 
 ## Tube inserts
-* 4x 25mm M8
-* 4x 30mm M8
-* 2x M10
+* 4x metal tube insert 25x8mm
+* 4x metal tube insert 30x8mm
+* 2x metal tube insert 38*8mm
 
 ## Light module
-* ![light module parts 1](pictures/light_module_parts1.png "light module foamboard parts 1")
-* ![light module parts 2](pictures/light_module_parts2.png "light module foamboard parts 2")
+* ![photographic foamboard parts 1](pictures/light_module_parts1.png "photographic foamboard parts 1")
+* ![photographic foamboard parts 2](pictures/light_module_parts2.png "photographic foamboard parts 2")
 * matte black photographers foamboard parts
 * 2x LED light SORAA SM16-07-10D-930-03-S3
 * 2x MR16 lamp socket
-* 4x light diffuser lenticular sheet
-* 1x 12V LED power supply
-* 1x barrel connector 5.5/2.1male with screw terminals 
+* 4x light diffuser lenticular sheet 50x50mm
+* 1x 12V/2A LED power supply
+* 1x DC barrel connector 5.5/2.1male with screw terminals 
 
 ## Glass
-* 2x tempered glass (50 degree angle, taped with electric tape)
+* 2x tempered glass 306x410x4mm (50 degree angle, taped with electric tape)
 
 ## Various
-* 2x felt strip black 200mm
-* 4x black elastic cord 45cm
+* 2x felt strip black 200x18mm
+* 4x black elastic cord 450x8mm
 * (electric tape)
 
 ## Electronics (standalone and deluxe kit only)
@@ -61,7 +64,7 @@
 * 1x micro USB cable
 * 2x camera AC adapter
 * 1x USB foot pedal
-* 1x USB hub (powered)
+* 1x 7 port USB hub (powered)
 * 1x Raspberry pi 2 model B
 * 1x Raspberry pi 2 model B case
 * 1x high speed micro SD card (preconfigured for spreads)
