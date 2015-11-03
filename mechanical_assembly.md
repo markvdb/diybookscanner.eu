@@ -24,21 +24,18 @@ Assemble the base by screwing the furniture cap nuts onto the threaded rod. (Sor
 
 ### Mounting the pulleys onto the base side plates
 You will need:
-* 2x bolt M8 70mm
-* 6x washer M8
-* 4x wooden pulley
+* 2x bolt M8 50mm
+* 4x plastic pulley
 * 2x nut M8
-* allen key M6
-* wrench M8
+* allen key M5
 
 Put together as seen in the pictures below. From outside to inside:
 * bolt head
-* wooden pulley
-* washer
+* plastic pulley
+* nut
 * base side plate
-* washer
-* wooden pulley
-* washer
+* nut
+* plastic pulley
 * nut
 
 ![base side plate pulley order](pictures/base_side_plate_pulley_order.jpg "base side plate pulley order")
