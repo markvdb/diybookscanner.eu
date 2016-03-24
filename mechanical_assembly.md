@@ -220,7 +220,7 @@ You will need:
 
 Put 4 sets together as pictured.
 ![prepare cradle wheels](pictures/cradle_wheels.jpg "prepare cradle wheels")
-![prepare cradle wheels](pictures/cradle_wheels.jpg "prepare cradle wheels")
+![prepare cradle wheels](pictures/cradle_wheels2.jpg "prepare cradle wheels")
 
 ### Assemble the cradle base
 You will need:
@@ -260,7 +260,7 @@ Fix the cradle leaves to the base with the threaded rods and the wing nuts.
 ### Hook up the bungee cords
 Hook two shortest inside and outside of scanner
 ![hook up bungee cords](pictures/bungee_cords.jpg "hook up bungee cords")
-![hook up bungee cords](bungee_cords2.jpg "hook up bungee cords")
+![hook up bungee cords](pictures/bungee_cords2.jpg "hook up bungee cords")
 
 ## Light module
 ### Assemble light module
