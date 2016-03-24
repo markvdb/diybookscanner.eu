@@ -19,7 +19,7 @@ You will need:
 * assembled 30x30mm aluminium tubes (see previous step)
 * 1x allen key M5
 
-Assemble the base by screwing the furniture cap nuts onto the threaded rod. (Sorry about the bad picture from a test build.)
+Assemble the base by screwing M8x50 bolts into tube inserts. (Sorry about the bad picture from a test build.)
 ![screw base together](pictures/screw_base_together.jpg "screw base together")
 
 ### Mounting the pulleys onto the base side plates
@@ -129,8 +129,6 @@ You will need
 Mount the hand grip tube between the lift arms. Attach it to lift arm  with M8 washer and M8x40 bolt
 ![mount hand grip tube between lift arms](pictures/attachingroundtube.jpg "mount hand grip tube between lift arms")
 
-On both sides of the threaded rod, first push on a washer, then screw on two nuts. Leave some space between the nuts. This is where we will attach the bungee cords later.
-![hand grip tube nuts](pictures/hand_grip_tube_nuts.jpg "hand grip tube nuts")
 
 ## Assembling the glass module
 ### Front and back plate meet camera braces
