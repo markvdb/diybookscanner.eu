@@ -56,14 +56,8 @@ First bang the metal tube inserts into the aluminium tubes, like you did with th
 
 ![bang metal tube inserts into cradle frame tube](pictures/bang_metal_tube_inserts_into_cradle_frame_tube_2.jpg "bang metal tube inserts into cradle frame tube")
 
-Now fasten the threaded rods into the furniture cap nuts in one cradle lifter. Do not fasten them too tightly yet.
-![furniture cap nuts connect cradle rods](pictures/furniture_cap_nuts_connect_cradle_rods.jpg "furniture cap nuts connect cradle rods")
-
-Push the aluminium tubes onto the threaded rods.
-![push aluminium tubes onto threaded rods](pictures/push_aluminium_tubes_onto_threaded_rods.jpg "push aluminium tubes onto threaded rods")
-
-Now add the second cradle lifter to the assembly. Fasten all four furniture cap bolts to the threaded rods.
-![fasten furniture cap bolts to threaded rods](pictures/fasten_furniture_cap_bolts_to_threaded_rods.jpg "fasten furniture cap bolts to threaded rods")
+Now add the both cradle lifters to the assembly. Fasten all four M8x50 bolts. (Sorry about the bad picture from a test build.
+![fasten furniture cap bolts to threaded rods](pictures/fasten_furniture_cap_bolts_to_threaded_rods.jpg "fasten furniture cap bolts to threaded rods(Sorry about the bad picture from a test build)")
 
 ### Base pulley bolts
 You will need:
@@ -110,25 +104,30 @@ Bolt the lift arms to cradle lifters and side plates. Screw an M8 nut onto every
 
 ### Preparing the hand grip tube
 You will need:
-* aluminium round tube
-* round tube inserts
-* threaded rod 830mm
+* 1x Aluminium roundtube 38x2x748mm
+* 2x Tube inserts 38x8mm 
+* 2x eyebolt M5x40m;
+* 2x M5 cap nuts  
 * rubber hammer
 
-Bang the round tube inserts into both sides of the aluminium round tube.
-![bang inserts into round tube](pictures/bang_inserts_into_round_tube.jpg "bang inserts into round tube")
+Bang round tube inserts into round tubes
+![mount round tube inserts](pictures/roundtubeinserts.jpg "mount round tube inserts")
+Hint: it may help to do this upside down, as pictured.
+![mount round tube inserts](pictures/roundtubeinserts2.jpg "mount round tube inserts")
 
-Push the threaded rod through the tube with the ends out on both sides.
-![push threaded rod through round tube](pictures/push_threaded_rod_through_round_tube.jpg "push threaded rod through round tube")
+Attach both eyebolts and capnuts on both sides of roundtube
+![mount eyebolts](pictures/eyebolts.jpg "mount eyebolts")
 
 ### Mounting the hand grip tube
 You will need
 * assembled hand grip tube
 * 2x washer M8
-* 4x nut M8
+* 2x nut M8
+* 2x M8x40 bolts
+* 2x M8x35 or M8x40
 
-Mount the hand grip tube between the lift arms. Push the threaded rod through the mount holes in both lift arms.
-![mount hand grip tube between lift arms](pictures/mount_hand_grip_tube_between_lift_arms.jpg "mount hand grip tube between lift arms")
+Mount the hand grip tube between the lift arms. Attach it to lift arm  with M8 washer and M8x40 bolt
+![mount hand grip tube between lift arms](pictures/attachingroundtube.jpg "mount hand grip tube between lift arms")
 
 On both sides of the threaded rod, first push on a washer, then screw on two nuts. Leave some space between the nuts. This is where we will attach the bungee cords later.
 ![hand grip tube nuts](pictures/hand_grip_tube_nuts.jpg "hand grip tube nuts")
@@ -171,7 +170,7 @@ You will need:
 Put the two glass plates onto a flat surface. They should meet with the angled cut facing down.
 ![glass together angled cut facing down](pictures/glass_together_angled_cut_facing_down.jpg "glass together angled cut facing down")
 
-Tape the two glass plates together with bits of electric tape. Six or seven should do.
+Tape the two glass plates together with bits of paper tape or other kind of tape that is easy to clean. Six or seven should do.
 ![glass plates taped together](pictures/glass_plates_taped_together.jpg "glass plates taped together")
 
 ### Installing the glass plates
@@ -216,12 +215,12 @@ Remove unnecessary electric tape. Use a cutter knife to remove the unnecessary b
 ### Prepare the cradle wheels
 You will need:
 * 4x bolt black M8 50mm
-* 4x washer M10
-* 8x washer M8
-* 4x bearing
+* 4x washer M8
+* 4x F608ZZ bearing
 
 Put 4 sets together as pictured.
-![prepare cradle wheels](pictures/prepare_cradle_wheels.jpg "prepare cradle wheels")
+![prepare cradle wheels](pictures/cradle_wheels.jpg "prepare cradle wheels")
+![prepare cradle wheels](pictures/cradle_wheels.jpg "prepare cradle wheels")
 
 ### Assemble the cradle base
 You will need:
@@ -247,8 +246,8 @@ Hammer the cradle leave triangles into the underside of the cradle leaves. **Hav
 
 ### Fix cradle leaves onto base
 You will need:
-* 2x threaded rod M8 170mm
-* 4x wing nut M8
+* 2x threaded rod M8 or M6 170mm
+* 4x wing nut M8 or M6
 * cradle
 
 Fix the cradle leaves to the base with the threaded rods and the wing nuts.
@@ -259,33 +258,49 @@ Fix the cradle leaves to the base with the threaded rods and the wing nuts.
 ![put cradle onto cradle runners](pictures/put_cradle_onto_cradle_runners.jpg "put cradle onto cradle runners")
 
 ### Hook up the bungee cords
-![hook up bungee cords](pictures/hook_up_bungee_cords_1.jpg "hook up bungee cords")
-![hook up bungee cords](pictures/hook_up_bungee_cords_2.jpg "hook up bungee cords")
+Hook two shortest inside and outside of scanner
+![hook up bungee cords](pictures/bungee_cords.jpg "hook up bungee cords")
+![hook up bungee cords](bungee_cords2.jpg "hook up bungee cords")
 
 ## Light module
 ### Assemble light module
 You will need:
 * all black foam board
-* hot glue, superglue or 2 component epoxy
-* 2x aluminium profile 914mm
+*6x M3x18 bolts
+*6x M3 washers     
+*6x M3 nuts
+*2x M5x15 bolts DIN 7985
+*2x M5 nuts;             
+*4x M5 washers
+*4x PS light diffuser 50x50mm
+*2x SORAA LED lights
+*2x Lamp Socket
+*1x Screw terminal 
 
-Fold the aluminium profiles around the foam board trapezoids as pictured.
-![fold aluminium profiles around trapezoids](pictures/fold_aluminium_profiles_around_trapezoids.jpg "fold aluminium profiles around trapezoids")
 
-Glue the aluminium to the foam board. Glue the top part first, then the sides. Let the LED lighting DC cable escape from the edge of the light module board. (Note that the imperfect cuts in this prototype have been improved. Foam board is now laser cut.)
-![glue_aluminium_to_foam_board](pictures/glue_aluminium_to_foam_board_1.jpg "glue aluminium to foam board")
-![glue_aluminium_to_foam_board](pictures/glue_aluminium_to_foam_board_2.jpg "glue aluminium to foam board")
-![glue_aluminium_to_foam_board](pictures/glue_aluminium_to_foam_board_3.jpg "glue aluminium to foam board")
-![glue_aluminium_to_foam_board](pictures/glue_aluminium_to_foam_board_4.jpg "glue aluminium to foam board")
+Put all foamboard part together as shown in picture. No glue needed.
+![light assembling](pictures/light_assembling_1.jpg "light assembling")
+![light assembling](pictures/light_assembling_2.jpg "light assembling")
+Easier to handle when light module in on the book scanner already.
+![light assembling](pictures/light_assembling_3.jpg "light assembling")
 
-### Mount light module to optics module
-Put the light module on top of the optics module.
-![put light module on optics module](pictures/put_light_module_on_optics_module.jpg "put light module on optics module")
+Put it all together M5x15 bolt, M5 washer, foamboard camera lid, foamboard side panel, M5 washer, M5 nut.
+![camera cover](pictures/camera_cover.jpg "camera cover")
 
-Reduce glare with two pieces of foamboard on top of the optics module.
-![reduce glare with foam board](pictures/reduce_glare_with_foam_board.jpg "reduce glare with foam board")
+Remove protective tape from PS light diffusers and use one with vertical and one with horizontal pattern for each bulb.
+![optics](pictures/optics.jpg "optics")
 
-Connect the LED module to the DC power supply.
+Attach lamp socket with optics to the top panel. 
+![lamp socket](pictures/lamp_socket_1.jpg "lamp socket")
+![lamp socket](pictures/lamp_socket_2.jpg "lamp socket")
+
+Put it all on top of book scanner
+![lamp socket](pictures/lamp_socket_3.jpg "lamp socket")
+
+Connect power cables with screw terminal
+![lamp socket](pictures/lamp_socket_4.jpg "lamp socket")
+
+Insert both light bulbs and connect the LED module to the DC power supply.
 
 ## Mount cameras and electronics
 ### Mount cameras
