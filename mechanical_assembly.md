@@ -163,7 +163,7 @@ You will need:
 ### Preparing the glass plates
 You will need:
 * 2x glass plate
-* electric tape
+* paper tape
 
 Put the two glass plates onto a flat surface. They should meet with the angled cut facing down.
 ![glass together angled cut facing down](pictures/glass_together_angled_cut_facing_down.jpg "glass together angled cut facing down")
