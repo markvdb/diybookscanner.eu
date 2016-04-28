@@ -280,7 +280,7 @@ Put all foamboard part together as shown in picture. No glue needed.
 ![light assembling](pictures/light_assembling_1.jpg "light assembling")
 ![light assembling](pictures/light_assembling_2.jpg "light assembling")
 Easier to handle when light module in on the book scanner already.
-![light assembling](pictures/light_assembling_3.jpg "light assembling")
+![light assembling](pictures/light_assembling.jpg "light assembling")
 
 Put it all together M5x15 bolt, M5 washer, foamboard camera lid, foamboard side panel, M5 washer, M5 nut.
 ![camera cover](pictures/camera_cover.jpg "camera cover")
