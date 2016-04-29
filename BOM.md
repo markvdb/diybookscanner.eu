@@ -29,7 +29,7 @@
 * 6x M3 nut black
 
 ## Aluminium
-* 2x 20x30x2mm aluminium profile 600mm
+* 2x 20x30x2mm aluminium profile 500mm
 * 1x 38x2mm aluminium round tube 748mm
 * 2x 25x25x2mm aluminium square tube 711mm
 * 2x 30x30x2mm aluminium square tube 711mm
