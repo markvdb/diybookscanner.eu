@@ -175,7 +175,7 @@ Tape the two glass plates together with bits of paper tape or other kind of tape
 You will need:
 * prepared glass plates
 * assembled optics module
-* 2x aluminium L profile 600mm
+* 2x aluminium L profile 500mm
 * 12x short wood screw
 * electric drill or screwdriver
 * drill bit wood 3mm
